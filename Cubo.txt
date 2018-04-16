@@ -1,0 +1,4 @@
+Select * 
+  From DW_PERU_FORMATO_14_1 R
+ Where R.AÑO = '2016'
+   And R.MES = '07'
